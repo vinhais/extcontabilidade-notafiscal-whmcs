@@ -1,0 +1,20 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "extcontabilidade_notafiscal",
+    "license": "proprietary",
+    "category": "addon",
+    "description": {
+        "name": "EXT Contabilidade - NotaFiscal",
+        "tagline": "Módulo pra emissão de nota fiscal usando a API da EXT Contabilidade para WHMCS",
+        "long": "Módulo pra emissão de nota fiscal usando a API da EXT Contabilidade para WHMCS"
+    },
+    "support": {
+        "docs_url": "https://extcontabilidade.com.br/devs/docs/"
+    },
+    "authors": [
+        {
+            "name": "Gabriel"
+        }
+    ]
+}
